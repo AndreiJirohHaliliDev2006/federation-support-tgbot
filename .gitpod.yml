@@ -2,3 +2,6 @@ image: node:12.16.3
 tasks:
   - init: npm install
     command: npm start
+ports:
+  - port: 3000
+    onOpen: prompt
