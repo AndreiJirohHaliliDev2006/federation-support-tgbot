@@ -1,3 +1,4 @@
 {
-    "version": 2
+    "//1": "Only v1 are supported up to this moment.",
+    "version": 1
 }
